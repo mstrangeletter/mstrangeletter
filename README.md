@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mstrangeletter.
 - 👀 I’m interested in improve my skills developing.
-- 🌱 I’m currently learning JavaScript, React JS & Angular
+- 🌱 I’m currently learning Bootstrap, JavaScript, React JS & VUE.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

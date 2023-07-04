@@ -5,6 +5,11 @@
 - 💞️ I'm avaible for a job as a frontend developer junior.
 - 📫 You can contact me at my email miguecartagena@gmail.com
 
+- ✨  About Me
+Front End Developer & Journalist I build accessible products and digital experiences for the web.
+
+In addition to my background in web design and development, I'm also a passionate inline roller skater and Jiu Jitsu white belt.
+
 
 <!---
 mstrangeletter/mstrangeletter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
